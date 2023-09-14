@@ -1,7 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    dotenv (2.8.1)
     ffi (1.15.5)
     listen (3.8.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -32,7 +31,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  dotenv (~> 2.8)
   puma (~> 6.3)
   rerun (~> 0.14.0)
   sinatra (~> 3.1)
